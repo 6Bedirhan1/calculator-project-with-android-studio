@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- AppCompat Tema Kullan -->
+    <style name="Base.Theme.HesapMakinesi" parent="Theme.AppCompat.NoActionBar">
+        <!-- Burada AppCompat teması kullanılıyor -->
+    </style>
+
+    <style name="Theme.HesapMakinesi" parent="Base.Theme.HesapMakinesi" />
+</resources>
