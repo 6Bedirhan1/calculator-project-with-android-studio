@@ -13,7 +13,8 @@ Bu proje, **Android Studio** kullanılarak Java ile geliştirilmiş **basit ve �
 
 ## 🖼️ Ekran Görüntüleri
 
-<img title="" src="file:///C:/calculate.png" alt="" width="264"> 
+<img title="" src="https://raw.githubusercontent.com/6Bedirhan1/calculator-project-with-android-studio/main/images/calculator.png" alt="Hesap Makinesi" width="286"> 
+
 *Hesap Makinesi kullanıcı arayüzü*
 
 ## 🛠️ Kullanılan Teknolojiler
