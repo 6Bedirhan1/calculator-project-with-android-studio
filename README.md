@@ -13,7 +13,7 @@ Bu proje, **Android Studio** kullanılarak Java ile geliştirilmiş **basit ve �
 
 ## 🖼️ Ekran Görüntüleri
 
-<img title="" src="file:///C:/Users/Lenovo/Downloads/Ekran görüntüsü 2025-03-03 210750-Photoroom.png" alt="" width="300"> 
+<img title="" src="file:///C:/calculate.png" alt="" width="264"> 
 *Hesap Makinesi kullanıcı arayüzü*
 
 ## 🛠️ Kullanılan Teknolojiler
